@@ -18,7 +18,7 @@ public class Lab {
      * @return any object.
      */
     public Object instantiateANewObject(){
-        String reference = new String();
-             return reference;
+        String bat = new String();
+             return bat;
     }
 }
